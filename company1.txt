@@ -1,0 +1,5 @@
+T-Mobile
+cicd pipelinks created using jenkins on boarded application teams
+maintained windows and linux servers- 100 servers
+servers maintaience and patching automation tools using ansible used for example installing word
+
