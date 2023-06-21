@@ -1,0 +1,42 @@
+1.
+char a='a'
+char b='b'
+char sum=a+b
+print (sum)
+
+Output:
+ERROR!
+File "<string>", line 1
+    char a='a'
+         ^
+SyntaxError: invalid syntax
+> 
+
+2.
+a="a"
+b="b"
+sum=a+b
+print (sum)
+
+Output:
+ab
+> 
+
+3.
+a="a"
+b="b"
+sum=ord(a)+ord(b)
+print(sum)
+
+Output:
+195
+> 
+
+4.
+array=[1,2,3,5,7,9]
+total=sum(array)
+print(total)
+
+Output:
+27
+> 
